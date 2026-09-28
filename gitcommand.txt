@@ -1,4 +1,7 @@
 #Git commands
+    -- git config --global user.name  name
+    --git config --global user.email  email
+
     -- git init          #for initializing git repository
 
     --git status         #for listing untracked files
