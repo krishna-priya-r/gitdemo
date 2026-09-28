@@ -9,3 +9,5 @@
     --git add .          #for adding untracked files into staged area
 
     --git commit -m "message"   #for adding staged files into repository
+
+    --git log                #for showing commit history
